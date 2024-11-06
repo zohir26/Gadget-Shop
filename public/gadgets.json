@@ -1,0 +1,182 @@
+
+
+[
+      {
+        "product_id": 1,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/DWBCNfV/lap-1.jpg",
+        "category": "Laptop",
+        "price": 1299.99,
+        "description": "13-inch laptop with an InfinityEdge display and latest Intel processors.",
+        "specifications": [
+          "Intel Core i7",
+          "16GB RAM",
+          "512GB SSD",
+          "Intel Iris Xe Graphics"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 2,
+        "product_title": "MacBook Air M1",
+        "product_image": "https://i.ibb.co.com/7WWXNh6/macbook-air-2020-m1.jpg",
+        "category": "MacBook",
+        "price": 999.99,
+        "description": "Apple's thin and lightweight laptop powered by the M1 chip.",
+        "specifications": [
+          "Apple M1 chip",
+          "8GB RAM",
+          "256GB SSD",
+          "13.3-inch Retina Display"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": 3,
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/LknzsdG/HP-Spectre-x360.jpg",
+        "category": "Laptop",
+        "price": 1499.99,
+        "description": "Premium convertible laptop with excellent build quality.",
+        "specifications": [
+          "Intel Core i7",
+          "16GB RAM",
+          "1TB SSD",
+          "13.3-inch 4K OLED Display"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": 4,
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ibb.co.com/rQqMxjF/Lenovo-Think-Pad-X1-Carbon.jpg",
+        "category": "Laptop",
+        "price": 1399.99,
+        "description": "Lightweight business laptop with a robust design.",
+        "specifications": [
+          "Intel Core i5",
+          "8GB RAM",
+          "512GB SSD",
+          "14-inch FHD Display"
+        ],
+        "availability": false,
+        "rating": 4.4
+      },
+      {
+        "product_id": 5,
+        "product_title": "ASUS ZenBook 14",
+        "product_image": "https://i.ibb.co.com/symC6S4/ASUS-Zen-Book-14.png",
+        "category": "Laptop",
+        "price": 1099.99,
+        "description": "Compact laptop with a 14-inch NanoEdge display and great performance.",
+        "specifications": [
+          "Intel Core i5",
+          "8GB RAM",
+          "256GB SSD",
+          "NVIDIA GeForce MX250"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": 6,
+        "product_title": "Acer Swift 3",
+        "product_image": "https://i.ibb.co.com/cFPt7k8/Acer-Swift-3.jpg",
+        "category": "Laptop",
+        "price": 899.99,
+        "description": "Affordable ultrabook with long battery life.",
+        "specifications": [
+          "AMD Ryzen 7",
+          "8GB RAM",
+          "512GB SSD",
+          "14-inch FHD Display"
+        ],
+        "availability": true,
+        "rating": 4.2
+      },
+      {
+        "product_id": 7,
+        "product_title": "iPhone 13",
+        "product_image": "https://i.ibb.co.com/0rj9sSh/i-Phone-13.jpg",
+        "category": "Phone",
+        "price": 799.99,
+        "description": "Latest iPhone with advanced camera system and A15 Bionic chip.",
+        "specifications": [
+          "6.1-inch display",
+          "128GB storage",
+          "Dual 12MP camera",
+          "A15 Bionic chip"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": 8,
+        "product_title": "Samsung Galaxy S22",
+        "product_image": "https://i.ibb.co.com/p098dKZ/Samsung-Galaxy-S22.jpg",
+        "category": "Phone",
+        "price": 899.99,
+        "description": "High-performance smartphone with amazing display and camera.",
+        "specifications": [
+          "6.2-inch display",
+          "128GB storage",
+          "Triple 12MP camera",
+          "Exynos 2200"
+        ],
+        "availability": false,
+        "rating": 4.6
+      },
+      {
+        "product_id": 9,
+        "product_title": "AirPods Pro",
+        "product_image": "https://i.ibb.co.com/KmSDNcH/Air-Pods-Pro.jpg",
+        "category": "Accessory",
+        "price": 249.99,
+        "description": "Wireless earbuds with active noise cancellation.",
+        "specifications": [
+          "Active Noise Cancellation",
+          "Transparency mode",
+          "Wireless charging case",
+          "24-hour battery life"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": 10,
+        "product_title": "Samsung Galaxy Buds Pro",
+        "product_image": "https://i.ibb.co.com/HDkXPzz/Samsung-Galaxy-Buds-Pro.jpg",
+        "category": "Accessory",
+        "price": 199.99,
+        "description": "Premium wireless earbuds with rich sound and ANC.",
+        "specifications": [
+          "Active Noise Cancellation",
+          "360 Audio",
+          "Wireless charging case",
+          "28-hour battery life"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": 11,
+        "product_title": "MacBook Pro M1",
+        "product_image": "https://i.ibb.co.com/gDn8cc3/Mac-Book-Pro-M1.jpg",
+        "category": "MacBook",
+        "price": 1299.99,
+        "description": "High-performance MacBook with the M1 chip.",
+        "specifications": [
+          "Apple M1 chip",
+          "8GB RAM",
+          "256GB SSD",
+          "13.3-inch Retina Display"
+        ],
+        "availability": true,
+        "rating": 4.9
+      }
+    ]
+  
+  
